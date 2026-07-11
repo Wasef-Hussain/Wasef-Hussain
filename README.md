@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Wasef+Hussain+%F0%9F%91%8B;Cybersecurity+Engineer;Offensive+Security+%26+Pentesting;Full-Stack+%26+Automation+Developer;Bug+Bounty+Hunter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Wasef+Hussain+%F0%9F%91%8B;Full-Stack+%26+Automation+Developer;Browser+Automation+%26+Rapid+Prototyping;Offensive+Security+%26+Pentesting;Bug+Bounty+Hunter" alt="Typing SVG" />
 
 <br/>
 
@@ -18,18 +18,30 @@
 name     : Wasef Hussain
 location : Karachi, Pakistan 🇵🇰
 roles:
-  - Cybersecurity Engineer @ NUEXUS Technologies
   - Software Engineer      @ LightningATC  (4+ yrs · Remote, US)
+  - Cybersecurity Engineer @ NUEXUS Technologies
 education:
   - MS  Cybersecurity          — SZABIST, Karachi
   - BS  Computer Soft. Eng.    — Riphah International University
 focus:
+  - Full-Stack Dev (React / Node / TypeScript / Electron)
+  - Browser Automation · Rapid Prototyping · Chrome Extensions
   - Offensive Security · Penetration Testing · Bug Bounty
-  - Full-Stack Dev (React / Node / Electron)
-  - Browser Automation · Chrome Extensions
   - Cloud Security (AWS — VPC, S3, IAM, NAT)
-currently: Levelling up red-team skills via TryHackMe & Cybrary Pentesting Path
+currently: Shipping small products fast, levelling up red-team skills on the side
 ```
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**FixtureKit**](https://fixture-kit.vercel.app) ⭐ Live | Paste any TypeScript interface or Zod schema → get realistic fixture/mock data instantly | TypeScript · React · Vite |
+| [**RivalIntel**](https://rivalintel.xyz) — Live | Competitor intelligence monitor — AI-generated alerts on what changed and why it matters | TypeScript |
+| [**LightningElectronApp**](https://github.com/Wasef-Hussain/LightningElectronApp) | High-speed browser automation & checkout bot for real-time demand items | Electron · JS |
+| [**BugbountyAutomator**](https://github.com/Wasef-Hussain/BugbountyAutomator) | Full recon pipeline — subdomain enum, live probing, Wayback URLs, Nuclei scanning | Node.js |
+| [**AWSautomation**](https://github.com/Wasef-Hussain/AWSautomation) | AWS infrastructure automation (VPC, S3, IAM, subnets, gateways) | Python · AWS |
 
 ---
 
@@ -45,7 +57,14 @@ currently: Levelling up red-team skills via TryHackMe & Cybrary Pentesting Path
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Cybersecurity & Offensive Tools**
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Offensive Security Tools**
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logoColor=white)
@@ -55,13 +74,6 @@ currently: Levelling up red-team skills via TryHackMe & Cybrary Pentesting Path
 ![Nuclei](https://img.shields.io/badge/Nuclei-00BFA5?style=for-the-badge&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-EF5350?style=for-the-badge&logoColor=white)
 ![Subfinder](https://img.shields.io/badge/Subfinder-FF9800?style=for-the-badge&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -80,20 +92,6 @@ currently: Levelling up red-team skills via TryHackMe & Cybrary Pentesting Path
 <img src="https://streak-stats.demolab.com/?user=Wasef-Hussain&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**FixtureKit**](https://github.com/Wasef-Hussain/FixtureKit) ⭐ | Paste any TypeScript interface or Zod schema → get realistic fixture/mock data instantly | TypeScript · React · Vite |
-| [**LightningElectronApp**](https://github.com/Wasef-Hussain/LightningElectronApp) | High-speed browser automation & checkout bot for real-time demand items | Electron · JS |
-| [**rivalintel**](https://github.com/Wasef-Hussain/rivalintel) | Competitive intelligence pipeline | TypeScript |
-| [**BugbountyAutomator**](https://github.com/Wasef-Hussain/BugbountyAutomator) | Full recon pipeline — subdomain enum, live probing, Wayback URLs, Nuclei scanning | Node.js |
-| [**ProjectAstra**](https://github.com/Wasef-Hussain/ProjectAstra) | Security-focused automation project | Python |
-| [**EPscanner**](https://github.com/Wasef-Hussain/EPscanner) | Endpoint discovery scanner for web recon | Python |
-| [**AWSautomation**](https://github.com/Wasef-Hussain/AWSautomation) | AWS infrastructure automation (VPC, S3, IAM, subnets, gateways) | Python · AWS |
 
 ---
 
