@@ -18,8 +18,9 @@
 name     : Wasef Hussain
 location : Karachi, Pakistan 🇵🇰
 roles:
-  - Software Engineer      @ LightningATC  (4+ yrs · Remote, US)
+  - Software Engineer      @ LightningATC  (5+ yrs · Remote, US)
   - Cybersecurity Engineer @ NUEXUS Technologies
+  - Software Developer     @ Vulture Scripts (Remote, Germany · 2023)
 education:
   - MS  Cybersecurity          — SZABIST, Karachi
   - BS  Computer Soft. Eng.    — Riphah International University
